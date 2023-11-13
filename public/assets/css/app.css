@@ -1,0 +1,32 @@
+.feedback-item{
+    width: 50% !important;
+    border: 1px solid #ccc !important;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5) !important;
+    padding: 12px !important;
+}
+
+
+.auther_name{
+    margin-bottom: -7px !important;
+}
+
+.category{
+    font-size: 12px !important;
+    color: #9e9e9e !important;
+    margin: 5px 0 10px 0 !important;
+    
+}
+
+.page-h{
+    max-height: calc(100vh - 123px);
+    overflow: auto;
+}
+
+.relative.z-0.inline-flex.shadow-sm.rounded-md{
+    display: none !important;
+}
+
+.cat-date{
+    display: flex;
+    justify-content: space-between;
+}
